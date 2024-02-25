@@ -1,0 +1,30 @@
+C:\Users\casper\Desktop\Mayonez Emülatör\Okul\11. Sınıf\Visual Studio Code\2. Dönem\.Net\2. Hafta Ödev\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\casper\Desktop\Mayonez Emülatör\Okul\11. Sınıf\Visual Studio Code\2. Dönem\.Net\2. Hafta Ödev\bin\Debug\net8.0\appsettings.json
+C:\Users\casper\Desktop\Mayonez Emülatör\Okul\11. Sınıf\Visual Studio Code\2. Dönem\.Net\2. Hafta Ödev\bin\Debug\net8.0\2. Hafta Ödev.staticwebassets.runtime.json
+C:\Users\casper\Desktop\Mayonez Emülatör\Okul\11. Sınıf\Visual Studio Code\2. Dönem\.Net\2. Hafta Ödev\bin\Debug\net8.0\2. Hafta Ödev.exe
+C:\Users\casper\Desktop\Mayonez Emülatör\Okul\11. Sınıf\Visual Studio Code\2. Dönem\.Net\2. Hafta Ödev\bin\Debug\net8.0\2. Hafta Ödev.deps.json
+C:\Users\casper\Desktop\Mayonez Emülatör\Okul\11. Sınıf\Visual Studio Code\2. Dönem\.Net\2. Hafta Ödev\bin\Debug\net8.0\2. Hafta Ödev.runtimeconfig.json
+C:\Users\casper\Desktop\Mayonez Emülatör\Okul\11. Sınıf\Visual Studio Code\2. Dönem\.Net\2. Hafta Ödev\bin\Debug\net8.0\2. Hafta Ödev.dll
+C:\Users\casper\Desktop\Mayonez Emülatör\Okul\11. Sınıf\Visual Studio Code\2. Dönem\.Net\2. Hafta Ödev\bin\Debug\net8.0\2. Hafta Ödev.pdb
+C:\Users\casper\Desktop\Mayonez Emülatör\Okul\11. Sınıf\Visual Studio Code\2. Dönem\.Net\2. Hafta Ödev\obj\Debug\net8.0\2. Hafta Ödev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casper\Desktop\Mayonez Emülatör\Okul\11. Sınıf\Visual Studio Code\2. Dönem\.Net\2. Hafta Ödev\obj\Debug\net8.0\2. Hafta Ödev.AssemblyInfoInputs.cache
+C:\Users\casper\Desktop\Mayonez Emülatör\Okul\11. Sınıf\Visual Studio Code\2. Dönem\.Net\2. Hafta Ödev\obj\Debug\net8.0\2. Hafta Ödev.AssemblyInfo.cs
+C:\Users\casper\Desktop\Mayonez Emülatör\Okul\11. Sınıf\Visual Studio Code\2. Dönem\.Net\2. Hafta Ödev\obj\Debug\net8.0\2. Hafta Ödev.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\Mayonez Emülatör\Okul\11. Sınıf\Visual Studio Code\2. Dönem\.Net\2. Hafta Ödev\obj\Debug\net8.0\2. Hafta Ödev.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\casper\Desktop\Mayonez Emülatör\Okul\11. Sınıf\Visual Studio Code\2. Dönem\.Net\2. Hafta Ödev\obj\Debug\net8.0\2. Hafta Ödev.RazorAssemblyInfo.cache
+C:\Users\casper\Desktop\Mayonez Emülatör\Okul\11. Sınıf\Visual Studio Code\2. Dönem\.Net\2. Hafta Ödev\obj\Debug\net8.0\2. Hafta Ödev.RazorAssemblyInfo.cs
+C:\Users\casper\Desktop\Mayonez Emülatör\Okul\11. Sınıf\Visual Studio Code\2. Dönem\.Net\2. Hafta Ödev\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\casper\Desktop\Mayonez Emülatör\Okul\11. Sınıf\Visual Studio Code\2. Dönem\.Net\2. Hafta Ödev\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\casper\Desktop\Mayonez Emülatör\Okul\11. Sınıf\Visual Studio Code\2. Dönem\.Net\2. Hafta Ödev\obj\Debug\net8.0\staticwebassets\msbuild.2. Hafta Ödev.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\casper\Desktop\Mayonez Emülatör\Okul\11. Sınıf\Visual Studio Code\2. Dönem\.Net\2. Hafta Ödev\obj\Debug\net8.0\staticwebassets\msbuild.build.2. Hafta Ödev.props
+C:\Users\casper\Desktop\Mayonez Emülatör\Okul\11. Sınıf\Visual Studio Code\2. Dönem\.Net\2. Hafta Ödev\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.2. Hafta Ödev.props
+C:\Users\casper\Desktop\Mayonez Emülatör\Okul\11. Sınıf\Visual Studio Code\2. Dönem\.Net\2. Hafta Ödev\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.2. Hafta Ödev.props
+C:\Users\casper\Desktop\Mayonez Emülatör\Okul\11. Sınıf\Visual Studio Code\2. Dönem\.Net\2. Hafta Ödev\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\casper\Desktop\Mayonez Emülatör\Okul\11. Sınıf\Visual Studio Code\2. Dönem\.Net\2. Hafta Ödev\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\casper\Desktop\Mayonez Emülatör\Okul\11. Sınıf\Visual Studio Code\2. Dönem\.Net\2. Hafta Ödev\obj\Debug\net8.0\scopedcss\bundle\2. Hafta Ödev.styles.css
+C:\Users\casper\Desktop\Mayonez Emülatör\Okul\11. Sınıf\Visual Studio Code\2. Dönem\.Net\2. Hafta Ödev\obj\Debug\net8.0\scopedcss\projectbundle\2. Hafta Ödev.bundle.scp.css
+C:\Users\casper\Desktop\Mayonez Emülatör\Okul\11. Sınıf\Visual Studio Code\2. Dönem\.Net\2. Hafta Ödev\obj\Debug\net8.0\2. Hafta Ödev.dll
+C:\Users\casper\Desktop\Mayonez Emülatör\Okul\11. Sınıf\Visual Studio Code\2. Dönem\.Net\2. Hafta Ödev\obj\Debug\net8.0\refint\2. Hafta Ödev.dll
+C:\Users\casper\Desktop\Mayonez Emülatör\Okul\11. Sınıf\Visual Studio Code\2. Dönem\.Net\2. Hafta Ödev\obj\Debug\net8.0\2. Hafta Ödev.pdb
+C:\Users\casper\Desktop\Mayonez Emülatör\Okul\11. Sınıf\Visual Studio Code\2. Dönem\.Net\2. Hafta Ödev\obj\Debug\net8.0\2. Hafta Ödev.genruntimeconfig.cache
+C:\Users\casper\Desktop\Mayonez Emülatör\Okul\11. Sınıf\Visual Studio Code\2. Dönem\.Net\2. Hafta Ödev\obj\Debug\net8.0\ref\2. Hafta Ödev.dll
